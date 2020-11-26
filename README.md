@@ -6,4 +6,4 @@
 
 ## Project images
 
-<img src="https://user-images.githubusercontent.com/48072325/100394286-d551a200-303c-11eb-88a6-261c2d5de9c7.PNG" width="902" height="1871">
+<img src="https://user-images.githubusercontent.com/48072325/100394286-d551a200-303c-11eb-88a6-261c2d5de9c7.PNG" width="300" height="800">
